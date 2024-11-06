@@ -5,7 +5,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler
 import yaml  # pyyaml
 
 
-TOKEN = '1753864794:AAG8HBLi9hlcmVYkR6bnrHJ9c6pssWZ6PEI'
+TOKEN = 'token'
 AUTHORIZED_USERS = ['Verssania']
 
 
